@@ -1,0 +1,13 @@
+.displayContainer_1 {
+    /*margin: -8px;*/
+    float: right;
+    /*padding: 0;*/
+    /*width: 400px;    */
+    width:75%;
+    height:100%;
+}
+.displayContainer_1 svg path:hover {
+    fill:#0000ff;
+    stroke:black;
+    pointer-events:all;
+}
